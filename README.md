@@ -1,0 +1,2 @@
+# AI2025
+AI Jurney 2025 EMI
