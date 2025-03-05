@@ -1,4 +1,4 @@
-Here are the answers to your questions:
+
 
 **Q1:** *What is the main difference between GAI and Traditional AI?*
 
