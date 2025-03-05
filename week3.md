@@ -125,6 +125,7 @@ Hsinchu City, one of Taiwan’s oldest settlements, dates back over 400 years to
 
 **When I ask GPT “Explain Hsinchu City's technology sector and its impact on Taiwan's economy in 100 words, including key industries and major companies”**
 Hsinchu City’s technology sector is the backbone of Taiwan’s economy, driven by Hsinchu Science Park (HSP), a global hub for semiconductors, AI, and biotechnology. It houses major companies like TSMC, UMC, and MediaTek, which dominate the semiconductor industry and power global electronics. Hsinchu’s high-tech ecosystem supports industries such as IC design, nanotechnology, and optoelectronics, fueling Taiwan’s exports and GDP growth. With top universities like NTHU and NCTU, the city fosters innovation and talent. Hsinchu’s tech dominance cements Taiwan’s position as a world leader in semiconductor manufacturing, essential for smartphones, AI, and emerging technologies.
+
 ---
 
 **3AI-Powered Personal Schedule Planner**
@@ -137,14 +138,17 @@ Saturday Schedule
 3:30 PM – 5:00 PM | Explore nearby attractions (e.g., Eighteen Peaks Mountain, Hsinchu Park)
 5:00 PM – 6:00 PM | Return home/freshen up
 6:30 PM – 8:30 PM | Dinner with friends
+
 ---
 
 **4AI Summarization & Report Generation**
 The page provides an overview of the **National Taipei University Business School** (NTPU), Taiwan's oldest business management school, established in 1955. Initially known as the Taiwan Provincial Law and Business School, it evolved through several name changes, becoming the **NTPU Business School** in 2000. The school is renowned for producing outstanding talent in the business and management sectors, with alumni who have succeeded in various industries globally. The page highlights the school's rich history, solid foundation, and continuous evolution, focusing on its long-standing tradition of excellence, innovation, and contributions to society.
 
 ---
+
 **5AI-Generated Social Media Content**
 🚀 Excited to be diving into the world of Artificial Intelligence with the *AI Journey* course at Chung Hua University (CHU)! 🤖💡 Every class brings new insights and challenges that fuel my passion for technology and innovation. Ready to explore AI’s endless possibilities and how it will shape our future! 🌐✨ #AIJourney #ChungHuaUniversity #ArtificialIntelligence #FutureTech #Taiwan #TechInnovation #LearningAndGrowing #AI #StudentLife #TechJourney #PassionForLearning
+
 ---
 
 **6AI Video Script Generator**
@@ -178,6 +182,7 @@ Hsinchu Science Park—shaping Taiwan’s technological future, one innovation a
 [Text on screen: #HsinchuSciencePark #TaiwanTech #Innovation #FutureTech]  
 
 **[End of video.]**
+
 ---
 
 **7. AI-Powered Recommendation System**
