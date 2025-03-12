@@ -79,3 +79,17 @@ The Art of War emphasizes strategy, adaptability, deception, and understanding t
 
 **Japanese**  
 『孫子の兵法』は戦略、適応力、欺瞞、敵の理解を強調しています。主な原則は自分を知り、地形を上手く使い、柔軟性を保ちつつ戦いに勝つことです。
+
+# Quiz 1: Self-Introduction with AI (自我介紹練習 | 自己紹介練習)
+I would like to introduce Yuna, a business management student with a keen interest in strategic thinking and analysis. Outside of academics, Yuna enjoys watching Netflix and listening to music in their free time.
+
+# Quiz 2: Summarization & Repeatability Check (摘要測試與再現性檢查 | 要約の再現性チェック)
+Global smartwatch sales dropped for the first time in 2024, with a 7% decline due to reduced popularity of Apple’s products, particularly in North America. Apple's shipments fell 19%, partly due to limited new features and the absence of the Ultra 3 model. Chinese brands like Xiaomi and Huawei gained market share, especially in children's smartwatches. While the market has stabilized, Counterpoint predicts modest growth in 2025, driven by AI features and enhanced health data offerings.
+
+# Quiz 3: Keyword Extraction & Repeatability Test (關鍵字提取與一致性測試 | キーワード抽出テスト)
+The top 5 keywords from the paragraph are:  
+1. Smartwatch  
+2. Sales  
+3. Apple  
+4. Xiaomi  
+5. Market
