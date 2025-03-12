@@ -106,3 +106,225 @@ The top 5 keywords from the paragraph are:
 3. Apple  
 4. Xiaomi  
 5. Market
+
+# 11.Article in Different Styles (不同風格文章, 異なる文体の文章)
+**English (News Report)**  
+Hsinchu, known as Taiwan’s Silicon Valley, has emerged as a hub for tech innovation. Home to major semiconductor companies, it drives the country’s tech industry. The city is also famous for its vibrant culture, delicious food, and beautiful parks, attracting both tech professionals and tourists alike.
+
+**English (Explanatory Text)**  
+Hsinchu is a city in northern Taiwan known for its strong presence in technology and innovation. With major semiconductor companies like TSMC headquartered here, it plays a key role in Taiwan’s economic growth. Hsinchu offers a blend of modern industry, cultural heritage, and natural beauty.
+
+---
+
+**Chinese (Traditional) (News Report)**  
+新竹被譽為台灣的矽谷，已成為科技創新的中心。擁有多家半導體大公司，推動台灣的科技產業。這座城市也以其充滿活力的文化、美味的食物和美麗的公園聞名，吸引了眾多科技專業人士和遊客。
+
+**Chinese (Traditional) (Explanatory Text)**  
+新竹是台灣北部的城市，以其強大的科技與創新實力聞名。擁有像台積電這樣的重要半導體公司，對台灣經濟增長起著關鍵作用。新竹融合了現代產業、文化遺產與自然美景。
+
+---
+
+**Japanese (News Report)**  
+新竹は台湾のシリコンバレーとして知られ、技術革新の中心地となっています。大手半導体企業が拠点を構え、台湾のテクノロジー産業を牽引しています。また、美味しい食べ物や美しい公園で文化的にも魅力的な都市です。
+
+**Japanese (Explanatory Text)**  
+新竹は台湾北部に位置する都市で、テクノロジーと革新の中心地として知られています。TSMCなどの主要な半導体企業が本社を構えており、台湾の経済成長に大きく貢献しています。新竹は現代産業、文化遺産、自然美が調和しています。
+
+# 12.Dramatic Writing (戲劇化寫作, ドラマチックな文章)
+**English**  
+In the shadows of progress, AI rises—silent, relentless, reshaping the very fabric of society. It promises a future of boundless potential, yet it threatens to disrupt jobs, privacy, and our very humanity. The question remains: Will we control it, or will it control us?
+
+**Chinese (Traditional)**  
+在進步的陰影中，人工智慧崛起——無聲無息、勢不可擋，重塑著整個社會的結構。它承諾著無限的未來，卻也威脅著我們的工作、隱私，甚至人性。問題依舊：我們能掌控它，還是它將掌控我們？
+
+**Japanese**  
+進歩の影に、AIは静かに、しかし容赦なく立ち上がり、社会の根幹を再構築しています。無限の可能性を約束する一方で、仕事やプライバシー、人間らしさを脅かします。果たして、私たちはこれを制御できるのか、それともAIが私たちを支配するのか？
+
+# 13.Table Formatting (表格生成, 表作成)
+| **Fruit**     | **Price (per kg)** |
+|---------------|--------------------|
+| Apple         | $3.50              |
+| Banana        | $1.20              |
+| Orange        | $2.00              |
+| Mango         | $4.00              |
+| Grapes        | $3.00              |
+
+# 14.Step-by-Step Lists (步驟列表, ステップリスト作成)
+**English**
+1. **Set up Python environment:** Install Python and choose an integrated development environment (IDE) to write your code.
+2. **Understand basic syntax:** Learn the core elements of Python like variables, data types, and operators.
+3. **Learn control structures:** Understand loops, conditionals, and functions to control the flow of your program.
+4. **Practice problem-solving:** Solve coding exercises to reinforce your understanding of Python’s capabilities.
+5. **Build projects:** Create small projects to apply your knowledge and build practical experience.
+
+**Chinese (Traditional)**
+1. **設置Python環境：** 安裝Python並選擇集成開發環境（IDE）來編寫代碼。
+2. **了解基本語法：** 學習Python的核心元素，如變數、數據類型和運算符。
+3. **學習控制結構：** 理解循環、條件語句和函數來控制程序流程。
+4. **練習問題解決：** 解決編程練習題以加強對Python能力的理解。
+5. **構建項目：** 創建小型項目來應用所學知識，積累實際經驗。
+
+**Japanese**
+1. **Python環境の設定：** Pythonをインストールし、コードを書くための統合開発環境（IDE）を選択します。
+2. **基本的な構文を理解する：** 変数、データ型、演算子など、Pythonの基本要素を学びます。
+3. **制御構造を学ぶ：** ループ、条件分岐、関数を理解して、プログラムのフローを制御します。
+4. **問題解決の練習：** コーディング練習を解決して、Pythonの能力を強化します。
+5. **プロジェクトを作成する：** 学んだ知識を応用して、小さなプロジェクトを作成し、実践的な経験を積みます。
+
+# 15.Markdown Formatting (Markdown 格式, Markdown 書式設定)# Effective Teamwork
+
+1. Introduction
+   - Definition of effective teamwork
+   - Importance in the workplace and beyond
+
+2. Key Components of Effective Teamwork
+   - **Clear Communication**
+     - Open and honest dialogue
+     - Active listening
+   - **Collaboration and Cooperation**
+     - Sharing ideas and resources
+     - Supporting each other
+   - **Role Clarity**
+     - Defining roles and responsibilities
+     - Aligning individual goals with team objectives
+
+3. Building Trust within a Team
+   - Importance of trust in teamwork
+   - How to build trust: Consistency, reliability, and transparency
+
+4. Problem Solving and Decision Making
+   - Collective decision-making process
+   - Resolving conflicts effectively
+
+5. Effective Leadership in Teamwork
+   - Leadership styles for fostering teamwork
+   - Empowering team members to take initiative
+
+6. Enhancing Team Motivation
+   - Setting clear goals and objectives
+   - Recognizing achievements and providing feedback
+
+7. Overcoming Challenges in Teamwork
+   - Common challenges teams face
+   - Strategies for overcoming barriers
+
+8. Conclusion
+   - Summary of key points
+   - Final thoughts on the value of effective teamwork
+
+# 16.# Effective Teamwork
+
+1. Introduction
+   - Definition of effective teamwork
+   - Importance in the workplace and beyond
+
+2. Key Components of Effective Teamwork
+   - **Clear Communication**
+     - Open and honest dialogue
+     - Active listening
+   - **Collaboration and Cooperation**
+     - Sharing ideas and resources
+     - Supporting each other
+   - **Role Clarity**
+     - Defining roles and responsibilities
+     - Aligning individual goals with team objectives
+
+3. Building Trust within a Team
+   - Importance of trust in teamwork
+   - How to build trust: Consistency, reliability, and transparency
+
+4. Problem Solving and Decision Making
+   - Collective decision-making process
+   - Resolving conflicts effectively
+
+5. Effective Leadership in Teamwork
+   - Leadership styles for fostering teamwork
+   - Empowering team members to take initiative
+
+6. Enhancing Team Motivation
+   - Setting clear goals and objectives
+   - Recognizing achievements and providing feedback
+
+7. Overcoming Challenges in Teamwork
+   - Common challenges teams face
+   - Strategies for overcoming barriers
+
+8. Conclusion
+   - Summary of key points
+   - Final thoughts on the value of effective teamwork
+Month,Product A Sales (Units),Product B Sales (Units),Product C Sales (Units),Total Sales (Units),Revenue ($)
+January,500,300,200,1000,15000
+February,550,320,210,1080,16200
+March,600,350,250,1200,18000
+April,650,370,280,1300,19500
+May,700,400,300,1400,21000
+June,750,420,320,1490,22350
+July,800,450,350,1600,24000
+August,850,480,370,1700,25500
+September,900,500,400,1800,27000
+October,950,530,420,1900,28500
+November,1000,550,450,2000,30000
+December,1050,600,500,2150,32250
+
+# 17.Marketing Copywriting (行銷文案, マーケティングコピー作成)
+**Feature:**  
+The Apple Watch comes with a sleek, high-resolution Retina display, GPS functionality, heart rate monitoring, and an array of health and fitness tracking features. It also offers seamless integration with the iPhone and other Apple devices.
+
+**Advantage:**  
+With its advanced health sensors and fitness tracking capabilities, the Apple Watch allows users to monitor their well-being, stay connected with notifications, and track their daily activity all from their wrist. The GPS and heart rate monitor provide accurate fitness data without the need for a smartphone.
+
+**Benefit:**  
+The Apple Watch enhances your daily life by empowering you to stay fit, track health metrics, and remain connected effortlessly. Whether you're exercising, working, or on the go, it keeps you informed and motivated, helping you achieve your wellness goals and manage your busy schedule efficiently.
+
+# 18.Tone & Style Adjustments (語氣調整, 文体調整)
+**Professional Article:**
+Machine learning (ML) is a subset of artificial intelligence (AI) that allows systems to learn and improve from experience without explicit programming. It utilizes algorithms to analyze data, recognize patterns, and make decisions. ML is applied across various industries, from healthcare, where it assists in diagnosing diseases, to finance, where it helps predict market trends. As the volume of data grows, the potential of machine learning to drive innovations and efficiencies in numerous fields continues to expand, revolutionizing both business processes and consumer experiences.
+
+---
+
+**Informal Article:**
+Machine learning is like teaching computers to learn from experience, just like humans do. Instead of giving them step-by-step instructions, we let them look at lots of data, spot patterns, and get better over time. From suggesting your next Netflix show to helping doctors catch diseases early, machine learning is everywhere! It’s becoming a game-changer in things like finance, healthcare, and entertainment. The more data we feed it, the smarter it gets—opening up endless possibilities for the future!### **Professional Article:**
+
+Machine learning (ML) is a subset of artificial intelligence (AI) that allows systems to learn and improve from experience without explicit programming. It utilizes algorithms to analyze data, recognize patterns, and make decisions. ML is applied across various industries, from healthcare, where it assists in diagnosing diseases, to finance, where it helps predict market trends. As the volume of data grows, the potential of machine learning to drive innovations and efficiencies in numerous fields continues to expand, revolutionizing both business processes and consumer experiences.
+
+---
+
+**Informal Article:**
+Machine learning is like teaching computers to learn from experience, just like humans do. Instead of giving them step-by-step instructions, we let them look at lots of data, spot patterns, and get better over time. From suggesting your next Netflix show to helping doctors catch diseases early, machine learning is everywhere! It’s becoming a game-changer in things like finance, healthcare, and entertainment. The more data we feed it, the smarter it gets—opening up endless possibilities for the future!
+
+# 19.Paraphrasing & Simplification (改寫練習, 言い換え練習)
+**English:**
+Deep learning is a neural network-based technology that analyzes large datasets.
+
+**Chinese (Traditional):**
+深度學習是一種基於神經網絡的技術，用來分析大量數據集。
+
+**Japanese:**
+深層学習は、大規模なデータセットを解析する神経ネットワーク技術です。
+
+# 20.Sarcastic vs Neutral Explanations (諷刺 vs 中立, 皮肉と中立の比較)
+**Sarcastic Explanation:**
+Oh, climate change? It's just a little warming of the planet, nothing to worry about. Rising temperatures, extreme weather events, melting ice caps—just the planet’s way of saying, “I’m fine!” Who needs forests and clean air anyway? It's only our future at stake!
+
+**Neutral Explanation:**
+Climate change refers to long-term alterations in temperature, weather patterns, and ecosystems due to human activities, particularly the emission of greenhouse gases. These changes are resulting in rising temperatures, more extreme weather events, and disruptions in natural systems. Addressing this issue involves global cooperation and sustainable practices.
+
+# Quiz 1: Advanced Self-Introduction with AI (進階自我介紹 | 高度な自己紹介練習)
+Certainly! Here's a professional self-introduction:
+
+---
+
+**Hello, my name is Yuna. I am currently pursuing a degree in Business Management, with a specialization in English. Throughout my studies, I have developed strong skills in management, communication, and strategic thinking, which I am eager to apply in the professional world. I am passionate about understanding business dynamics and have a keen interest in improving organizational efficiency and fostering effective cross-cultural communication. I look forward to further enhancing my knowledge and skills as I advance in my academic and professional journey.**
+
+---
+
+# Quiz 2: Tone & Style Adaptation Across Different Audiences (語氣與風格調整測試 | 文体の適応テスト)
+**1. For a 10-year-old Child:**  
+Machine learning is like teaching a robot how to recognize things by showing it lots of examples. Imagine you show the robot pictures of cats and dogs. After seeing many, it starts to understand what makes a cat different from a dog. So, next time, when you show it a new picture, it can guess if it’s a cat or dog on its own!
+**2. For a High School Student:**  
+Machine learning is a type of technology that helps computers learn from data without being programmed for specific tasks. It uses patterns and examples to improve its performance. For instance, if you train it to recognize images of animals, it’ll get better over time by using the examples you provide.
+
+**3. For an AI Expert:**  
+Machine learning is a subset of AI that involves developing algorithms capable of learning from and making predictions or decisions based on large datasets. It employs various techniques such as supervised, unsupervised, and reinforcement learning to identify patterns, optimize functions, and generalize outcomes without explicit programming. Techniques like neural networks, decision trees, and support vector machines are commonly used in ML applications.
+
+---
