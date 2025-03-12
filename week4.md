@@ -83,8 +83,21 @@ The Art of War emphasizes strategy, adaptability, deception, and understanding t
 # Quiz 1: Self-Introduction with AI (自我介紹練習 | 自己紹介練習)
 I would like to introduce Yuna, a business management student with a keen interest in strategic thinking and analysis. Outside of academics, Yuna enjoys watching Netflix and listening to music in their free time.
 
+Chinese (Traditional)
+請允許我介紹Yuna，她是一名商業管理的學生，對學術追求和休閒活動充滿熱情。閒暇時，她喜歡觀看Netflix和聽音樂。
+
+Japanese
+Yunaさんをご紹介いたします。彼女はビジネスマネジメントを学んでいる学生で、学業にも趣味にも情熱を持っています。余暇にはNetflixを観たり、音楽を聴いたりすることを楽しんでいます。
+
 # Quiz 2: Summarization & Repeatability Check (摘要測試與再現性檢查 | 要約の再現性チェック)
-Global smartwatch sales dropped for the first time in 2024, with a 7% decline due to reduced popularity of Apple’s products, particularly in North America. Apple's shipments fell 19%, partly due to limited new features and the absence of the Ultra 3 model. Chinese brands like Xiaomi and Huawei gained market share, especially in children's smartwatches. While the market has stabilized, Counterpoint predicts modest growth in 2025, driven by AI features and enhanced health data offerings.
+**English**  
+Global smartwatch sales saw a 7% decline in 2024, primarily due to reduced demand for Apple's products, especially in North America. Apple’s shipments dropped by 19%, partly because of limited new features and the absence of the Ultra 3 model. Chinese brands like Xiaomi and Huawei gained market share, particularly in children’s smartwatches. Despite the decline, the market is expected to grow modestly in 2025, fueled by AI features and improved health data capabilities.
+
+**Chinese (Traditional)**  
+2024年全球智能手錶銷售下降了7%，主要是因為蘋果產品在北美的需求減少。蘋果的出貨量下降了19%，部分原因是新功能有限且缺少Ultra 3型號。小米和華為等中國品牌在兒童智能手錶市場中獲得了市場份額。儘管銷售下降，但市場預計在2025年會穩定增長，主要受到人工智慧功能和增強健康數據服務的推動。
+
+**Japanese**  
+2024年、世界のスマートウォッチ販売は7%減少しました。特に北米でのApple製品の需要減少が原因です。Appleの出荷量は19%減少し、新機能の限界やUltra 3モデルの欠如が影響しました。XiaomiやHuaweiなどの中国ブランドは、特に子供向けスマートウォッチで市場シェアを拡大しました。市場は安定しており、2025年にはAI機能や強化された健康データの提供により、緩やかな成長が予測されています。
 
 # Quiz 3: Keyword Extraction & Repeatability Test (關鍵字提取與一致性測試 | キーワード抽出テスト)
 The top 5 keywords from the paragraph are:  
