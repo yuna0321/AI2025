@@ -308,11 +308,21 @@ Oh, climate change? It's just a little warming of the planet, nothing to worry a
 Climate change refers to long-term alterations in temperature, weather patterns, and ecosystems due to human activities, particularly the emission of greenhouse gases. These changes are resulting in rising temperatures, more extreme weather events, and disruptions in natural systems. Addressing this issue involves global cooperation and sustainable practices.
 
 # Quiz 1: Advanced Self-Introduction with AI (進階自我介紹 | 高度な自己紹介練習)
-Certainly! Here's a professional self-introduction:
+**English (Professional Self-Introduction)**
+
+Hello, my name is Yuna. I am currently pursuing a degree in Business Management, with a specialization in Bookkeeping. Throughout my studies, I have developed a strong foundation in financial recordkeeping, accounting principles, and business operations. I am passionate about the meticulous nature of bookkeeping and its critical role in ensuring business accuracy and efficiency. I am eager to apply my knowledge and skills in a professional setting and contribute to organizational success.
 
 ---
 
-**Hello, my name is Yuna. I am currently pursuing a degree in Business Management, with a specialization in English. Throughout my studies, I have developed strong skills in management, communication, and strategic thinking, which I am eager to apply in the professional world. I am passionate about understanding business dynamics and have a keen interest in improving organizational efficiency and fostering effective cross-cultural communication. I look forward to further enhancing my knowledge and skills as I advance in my academic and professional journey.**
+**Chinese (Traditional) (Professional Self-Introduction)**
+
+大家好，我叫Yuna。我目前正在攻讀商業管理學位，專攻簿記。在學期間，我已經建立了堅實的財務記錄、會計原則和商業運營基礎。我對簿記的精細性和其在確保企業準確性與效率中的關鍵角色充滿熱情。我期待將我的知識和技能應用於專業領域，並為組織的成功做出貢獻。
+
+---
+
+**Japanese (Professional Self-Introduction)**
+
+こんにちは、私はユナと申します。現在、ビジネスマネジメントを専攻しており、簿記を専門としています。学んでいる間に、財務記録や会計の原則、ビジネス運営に関するしっかりとした基盤を築いてきました。簿記の細かな作業と、それが企業の正確性と効率を確保する上で果たす重要な役割に情熱を持っています。将来的には、専門知識とスキルをプロフェッショナルな環境で活かし、組織の成功に貢献したいと考えています。
 
 ---
 
