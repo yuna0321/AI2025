@@ -51,7 +51,8 @@ AIは人間の知能を模倣し、データ処理やコンテンツ生成を行
 - **正式:** ディープラーニングは、多層のニューラルネットワークを用いて複雑なデータパターンを処理する機械学習の一分野です。  
 - **非正式:** ディープラーニングは、人間が顔を覚えたり、言葉を理解したりするように、コンピューターが例を学ぶ技術です。
 
-# 8.Humorous Explanation (幽默解釋, ユーモラスな説明)### **English**  
+# 8.Humorous Explanation (幽默解釋, ユーモラスな説明)
+**English**  
 Blockchain is like a super long, unbreakable grocery receipt where everyone sees what you buy, but no one can change it. Perfect for trust, terrible for sneaky snack purchases!  
 
 **Chinese (Traditional)**  
@@ -60,7 +61,8 @@ Blockchain is like a super long, unbreakable grocery receipt where everyone sees
 **Japanese**  
 ブロックチェーンは、めちゃくちゃ長い変更不可のレシートみたいなもの。みんな取引を見られるけど、書き換えは不可能！信頼には最高、こっそりお菓子を買うには最悪！
 
-# 9.Simple Sentence Rewriting (簡單句型調整, シンプルな文書き換え)### **English**  
+# 9.Simple Sentence Rewriting (簡單句型調整, シンプルな文書き換え)
+**English**  
 5G is the next-generation internet for phones—faster, smoother, and with less delay. It helps videos load instantly, games run better, and even powers smart cities and self-driving cars.  
 
 **Chinese (Traditional)**  
