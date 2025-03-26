@@ -94,3 +94,11 @@ A panoramic mountain landscape with blue skies and snowy peaks 青い空と雪�
 Lab 16: Foggy Atmosphere
 A forest shrouded in morning fog, objects barely visible in the mist 朝霧に包まれた森、霧の中に物体がかろうじて見える
 ![image](https://github.com/user-attachments/assets/aad31c6f-552f-46fc-a508-4574fc52359f)
+
+Lab 17: Post-Rain Urban Scene
+A city street after rain, lights reflected on wet roads 雨上がりの街路、濡れた路面に反射する光
+![image](https://github.com/user-attachments/assets/1db8a559-6bea-46ea-a46b-8aed42875670)
+
+Lab 18: Twilight Scene
+A sunset park bathed in orange light filtering through the trees オレンジ色の木漏れ日が降り注ぐ夕日の公園
+![image](https://github.com/user-attachments/assets/1db3fb3e-1d48-4013-a057-ab157841d430)
