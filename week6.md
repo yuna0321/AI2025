@@ -24,6 +24,7 @@ Lab 2: Superhero Comic Style X Lab Template
 
 
 **Category 2: Basic Realistic Landscape X Your 2 Demo**
+
 Lab 3: Realistic Nature Scene
 A morning forest scene with sunlight filtering through trees, moist moss, and fallen leaves in Taiwan 台湾の木漏れ日、湿った苔、落ち葉のある朝の森の風景
 ![image](https://github.com/user-attachments/assets/03ea4642-3cd9-4e4e-8a7b-015a56824d41)
@@ -43,11 +44,13 @@ A portrait of an emotionally intense character with bold colors and dramatic exp
 ![image](https://github.com/user-attachments/assets/f5c97ba0-a29c-41ae-b16a-4bc307064ee5)
 
 **Category 4: Geometry and Abstract Art  X Your 2 Demo**
+
 Lab 7: Geometric Abstract Design
 Overlapping circles and squares in Bauhaus style using vivid primary colors 鮮やかな原色を使用したバウハウス風の円と四角形の重なり
 ![image](https://github.com/user-attachments/assets/154e19b0-492c-4dfe-a9b1-f01c5109aa53)
 
 **Category 5: Renaissance and Classical Styles  X Your 2 Demo**
+
 Lab 8: Renaissance Portrait
 A noble portrait in Renaissance style, with elegant garments and soft lighting エレガントな衣装と柔らかな照明を備えたルネッサンス様式の高貴な肖像画
 ![image](https://github.com/user-attachments/assets/f5283753-c354-4751-ae3a-1b124e752ea7)
@@ -57,6 +60,7 @@ A majestic ancient Greek temple with marble columns under a blue sky 青空の�
 ![image](https://github.com/user-attachments/assets/c8881a5f-649c-43ff-b562-994d6f7a35d0)
 
 **Category 6: Surreal and Fantasy Styles  X Your 2 Demo**
+
 Lab 10: Mythological Scene Creation
 Zeus on Mount Olympus surrounded by mythical creatures, holding a thunderbolt 神話上の生き物たちに囲まれ、落雷を抱えたオリンポス山のゼウス
 ![image](https://github.com/user-attachments/assets/b38216de-f26e-42d8-8b27-bbf76b036848)
@@ -70,6 +74,7 @@ A glowing dragon with translucent wings flying above a misty valley 霧の谷の
 ![image](https://github.com/user-attachments/assets/ba19df46-b99c-4cb2-a149-7d777d06bbc1)
 
 **Category 7: Modern and Futuristic Styles  X Your 2 Demo**
+
 Lab 13: Futuristic City
 A futuristic city with skyscrapers and flying vehicles 高層ビルと空飛ぶ乗り物がある未来都市
 ![image](https://github.com/user-attachments/assets/616ed5ca-f9fa-4921-972f-fec3082f4d55)
@@ -79,11 +84,13 @@ A futuristic smartwatch with a holographic display in minimalist design ミニ�
 ![image](https://github.com/user-attachments/assets/da15fc5f-1c48-451e-9db3-c130e12e5572)
 
 **Category 8: Panoramic and Detail-Focused Views  X Your 2 Demo**
+
 Lab 15: Panoramic Landscape
 A panoramic mountain landscape with blue skies and snowy peaks 青い空と雪を頂いた山頂が広がるパノラマの山の風景
 ![image](https://github.com/user-attachments/assets/d6bf50ac-c672-4cd2-83e8-f1746272603a)
 
 **Category 9: Environmental Mood and Time  X Your 2 Demo**
+
 Lab 16: Foggy Atmosphere
 A forest shrouded in morning fog, objects barely visible in the mist 朝霧に包まれた森、霧の中に物体がかろうじて見える
 ![image](https://github.com/user-attachments/assets/aad31c6f-552f-46fc-a508-4574fc52359f)
