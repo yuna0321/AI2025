@@ -15,6 +15,7 @@ Third
 ![image](https://github.com/user-attachments/assets/5080d5a2-56ce-4cb2-a116-783b4e61134e)
 
 Lab 2: Superhero Comic Style X Lab Template
+
 3.A male and a female superhero flying dynamically over a futuristic city skyline in Taipei, both with exaggerated heroic poses, wearing sleek costumes, rendered in bold outlines and vivid colors in vibrant American comic book style, with motion lines, glowing effects, and dramatic lighting.台北の未来的な都市のスカイラインの上をダイナミックに飛ぶ男性と女性のスーパーヒーロー。どちらも誇張された英雄的なポーズを取り、洗練された衣装を着ており、動線、光る効果、劇的な照明を使用し、大胆な輪郭と鮮やかな色で鮮やかなアメリカン コミック スタイルでレンダリングされています。
 ![image](https://github.com/user-attachments/assets/09f80bb6-774c-499b-9d6d-0bf9dcf4ce5a)
 
