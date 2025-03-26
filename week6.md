@@ -8,22 +8,22 @@ Second
 Third
 ![image](https://github.com/user-attachments/assets/324f9fd1-e308-40ec-895b-f7e2383d87e0)
 
-## 1.A upset cartoon rabbit with big eyes, slow movements, and a lively, cute expression 大きな目、ゆっくりとした動き、生き生きとしたかわいい表情をした動揺した漫画のウサギ
+1.A upset cartoon rabbit with big eyes, slow movements, and a lively, cute expression 大きな目、ゆっくりとした動き、生き生きとしたかわいい表情をした動揺した漫画のウサギ
 ![image](https://github.com/user-attachments/assets/35475183-9472-46c7-bd59-2a8e7e7d4205)
 ![image](https://github.com/user-attachments/assets/14452888-4a65-4f92-a1d3-53b9dbcddb2c)
 
-## 2.A cheerful cartoon rabbit with big eyes and wearing super cute Sun glasses, exaggerated movements, and a lively, cute expression大きな目ととてもかわいいサングラスをかけた陽気な漫画ウサギ、大げさな動き、生き生きとしたかわいい表情
+2.A cheerful cartoon rabbit with big eyes and wearing super cute Sun glasses, exaggerated movements, and a lively, cute expression大きな目ととてもかわいいサングラスをかけた陽気な漫画ウサギ、大げさな動き、生き生きとしたかわいい表情
 ![image](https://github.com/user-attachments/assets/8953dcaf-ed23-4512-bc36-8551d9b4f21c)
 ![image](https://github.com/user-attachments/assets/00f50629-5dee-4da2-b9c9-34e9b934a6e6)
 
 
 ## Lab 2: Superhero Comic Style X Lab Template
 
-## 3.A male and a female superhero flying dynamically over a futuristic city skyline in Japan, both with exaggerated heroic poses, wearing red sleek costumes, rendered in bold outlines and vivid colors in vibrant American comic book style, with motion lines, glowing effects, and dramatic lighting.日本の未来的な都市のスカイラインの上をダイナミックに飛び回る男性と女性のスーパーヒーロー。どちらも誇張された英雄的なポーズを取り、赤い洗練された衣装を着ており、動線、光る効果、ドラマチックな照明を使用し、鮮やかなアメリカン コミック スタイルで大胆な輪郭と鮮やかな色で表現されています
+3.A male and a female superhero flying dynamically over a futuristic city skyline in Japan, both with exaggerated heroic poses, wearing red sleek costumes, rendered in bold outlines and vivid colors in vibrant American comic book style, with motion lines, glowing effects, and dramatic lighting.日本の未来的な都市のスカイラインの上をダイナミックに飛び回る男性と女性のスーパーヒーロー。どちらも誇張された英雄的なポーズを取り、赤い洗練された衣装を着ており、動線、光る効果、ドラマチックな照明を使用し、鮮やかなアメリカン コミック スタイルで大胆な輪郭と鮮やかな色で表現されています
 ![image](https://github.com/user-attachments/assets/c3f5ca99-3ee1-40ce-b11b-1462c9447516)
 ![image](https://github.com/user-attachments/assets/3484137b-9a05-4a40-892b-300ecdca7014)
 
-## 4.The three flying superhero-like and super cute pandas flying dynamically over a futuristic Tokyo city skyline, both with exaggerated heroic poses, wearing pink, blue and yellow sleek costumes, rendered in bold outlines and vivid colors in vibrant American comic book style, with motion lines, glowing effects, and dramatic lighting 未来的な東京の街並みの上空をダイナミックに飛び回るスーパーヒーローのような超キュートな 3 頭のパンダは、誇張された英雄的なポーズを取り、ピンク、青、黄色の洗練された衣装を着ており、動線、光るエフェクト、ドラマチックな照明を使用し、鮮やかなアメリカン コミック スタイルで大胆な輪郭と鮮やかな色でレンダリングされています。
+4.The three flying superhero-like and super cute pandas flying dynamically over a futuristic Tokyo city skyline, both with exaggerated heroic poses, wearing pink, blue and yellow sleek costumes, rendered in bold outlines and vivid colors in vibrant American comic book style, with motion lines, glowing effects, and dramatic lighting 未来的な東京の街並みの上空をダイナミックに飛び回るスーパーヒーローのような超キュートな 3 頭のパンダは、誇張された英雄的なポーズを取り、ピンク、青、黄色の洗練された衣装を着ており、動線、光るエフェクト、ドラマチックな照明を使用し、鮮やかなアメリカン コミック スタイルで大胆な輪郭と鮮やかな色でレンダリングされています。
 ![image](https://github.com/user-attachments/assets/f3e3ee4b-af71-48cd-9def-94d2ca49778e)
 ![image](https://github.com/user-attachments/assets/6271f17d-8b13-4aa5-96be-936bf9a230ee)
 
