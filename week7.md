@@ -98,7 +98,7 @@ A family of three parents in their 30s and their five years old daugther are sit
 
 - **Challenge: How to merge N images to 1 image?**
 
-  Case 1: beautiful blonde woman X long bus X strawberry caterpillar
+  **Case 1: beautiful blonde woman X long bus X strawberry caterpillar**
   Feminine Tenderness, painting in the style of Willem Haenraets, a very beautiful blonde woman, long luxurious curls, flowers, against a background of roses, blurred airy smoky watercolor, beauty, light, aesthetics, magically, radiance from within, gently, blurred, light haze, tenderness, romanticism, sfumato, very beautiful, delicate, light, pastel shades,  124k, high resolution, high detail, MSM, 30 mm lens, 1/250 s, f/2.8, ISO 100
   ![image](https://github.com/user-attachments/assets/4086b6a1-a793-49de-8169-4fdd0f47bfce)
 
@@ -112,7 +112,7 @@ A surreal, high-detailed digital painting blending realism, impressionism, and f
 Near the woman’s feet, a charming, whimsical caterpillar, adorned with a tiny decorative hat and ribbon, sits atop a red mushroom, curiously observing the scene. The painting, inspired by the artistry of Studio Ghibli, Rebecca Sugar, and Loish, combines soft pastel shades, romantic sfumato, and abstract expressionism. The composition exudes nostalgia, mystery, and the beauty of nature reclaiming time, captured in a cinematic high resolution with a dreamlike balance of light and shadow.
 ![image](https://github.com/user-attachments/assets/30e1c2fc-9926-4e92-b5bb-96566d9ee35f)
 
- Case 2: Please refer to the case 1 then search and pick up 3 images about dogs and cats then merge them together, and submit your art work by the format of Case 1.
+ **Case 2: Please refer to the case 1 then search and pick up 3 images about dogs and cats then merge them together, and submit your art work by the format of Case 1.**
 dog playing in the park
 ![image](https://github.com/user-attachments/assets/45513f37-d4d4-4e18-b0d0-a9b6dc73075d)
 
@@ -125,7 +125,7 @@ beautiful woman's back
 A dog playing in the park, a cat eating food and a beautiful woman watching them
 ![image](https://github.com/user-attachments/assets/56389435-1a83-48db-b06f-a5751147975e)
 
- Case 3: Please refer to the case 1 then search and pick up 3 images about fish then merge them together, and submit your art work by the format of Case 1.
+ **Case 3: Please refer to the case 1 then search and pick up 3 images about fish then merge them together, and submit your art work by the format of Case 1.**
  Many colorful fish are in the coal reef
  ![image](https://github.com/user-attachments/assets/4d4471c4-92dd-4343-b817-55cca6f771ce)
 
@@ -142,7 +142,7 @@ The painting, inspired by the artistry of Willem Haenraets, Studio Ghibli, Gil E
 ![image](https://github.com/user-attachments/assets/a7915cff-b6e7-4765-9673-f06bcd5159a9)
 
 
-Case 4: Please refer to the case 1 then search and pick up 5 images about your country (e.g., Taiwan or Japan) then merge them together, and submit your art work by the format of Case 1.
+**Case 4: Please refer to the case 1 then search and pick up 5 images about your country (e.g., Taiwan or Japan) then merge them together, and submit your art work by the format of Case 1.**
 "Ethereal Japan: A Surreal Fusion of Tradition and Fantasy"
 please illustrate the image of Toyko sky tree
 ![image](https://github.com/user-attachments/assets/5ecbc3a9-b9c6-411b-b47c-1c021275efa0)
@@ -172,5 +172,3 @@ Amidst this fusion of past and present, a breathtaking blonde woman with cascadi
 This masterful painting, inspired by the works of Studio Ghibli, Gil Elvgren, Rebecca Sugar, and Loish, combines soft pastel shades, romantic sfumato, and abstract expressionism. The composition captures the harmony between Japan’s historical elegance and fantasy’s limitless imagination, rendered in stunning cinematic high resolution with a dreamlike balance of light and shadow.
 
 ![image](https://github.com/user-attachments/assets/e36549aa-7f3c-482f-ae9f-29144b72edcf)
-
-
