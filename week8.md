@@ -97,5 +97,74 @@ si-	Object prefix: Us
 thanda	Verb root: Love
 ✅ So: Ba-sa-si-thanda = “They still love us”
 
+🧠 10 AI-Integrated Educational Questions
+Sample Answer	AI Image Prompt	SIGGRAPH Topic
+### Q1	What is Computer Graphics? How is it used in modern business?	
+Sample Answer:Computer Graphics helps visualize ideas in 2D/3D, used in architecture, product design, healthcare, and marketing.	
 
+AI Image Prompt:“A collage with 3D medical imaging, a digital building model, and a product ad mockup.”
 
+SIGGRAPH Topic:Computer Graphics
+
+### Q2	How can VR/AR transform customer experience in a specific industry?	
+Sample Answer:In restaurants, AR menus let customers see 3D dishes before ordering, creating an immersive dining experience.	
+
+AI Image Prompt:“AR restaurant menu showing 3D dishes, customers interacting via smartphones.”	
+
+SIGGRAPH Topic:VR / AR
+
+### Q3	How does AI & Generative Media support branding and creative design?	
+Sample Answer:Generative AI can auto-create logos, packaging, and ad visuals based on brand identity.	
+
+AI Image Prompt:“A futuristic product label and logo created by generative AI with creative color palettes.”	
+
+SIGGRAPH Topic:AI & Generative Media
+
+### Q4	Propose a marketing idea using an AI assistant + animated character.	
+Sample Answer:A talking AI mascot helps users choose skincare products on a beauty brand’s website.	
+
+AI Image Prompt:“An animated AI character talking to a user while product info floats around.”	
+
+SIGGRAPH Topic:AI & Generative Media
+
+###  Q5	How can VFX be applied in education or advertising?
+Sample Answer:In training videos, magical visual effects (like glowing diagrams or particle transitions) boost engagement.	
+
+AI Image Prompt:“A training scene with floating diagrams and particle animation transitions.”
+
+SIGGRAPH Topic:Visual Effects
+
+### Q6	How does Real-Time Rendering enhance interaction in games or commerce?	
+Sample Answer:Real-time rendering allows instant product customization in livestream shopping.	
+
+AI Image Prompt:“A 3D shopping stream where the host changes product colors live with viewer votes.”	
+
+SIGGRAPH Topic:Real-Time Rendering
+
+### Q7	Compare Immersive Experience with traditional marketing.	
+Sample Answer:Immersive tech offers deeper engagement but is costlier. Posters are cheaper but less interactive.	
+
+AI Image Prompt:“A VR booth with headset users next to a traditional paper ad wall.”	
+
+SIGGRAPH Topic:HCI & Immersive Experience
+
+### Q8	How does HCI influence consumer behavior?	
+Sample Answer:Touchless gestures and voice control make shopping faster and more fun, encouraging purchases.	
+
+AI Image Prompt:“A shopper using hand gestures to swipe through holographic products.”	
+
+SIGGRAPH Topic:HCI & Immersive Experience
+
+### Q9	Design a SIGGRAPH-inspired campus exhibition.	
+Sample Answer:“TechXperience Week” includes AR games, a VFX photo booth, and an AI art gallery.	
+
+AI Image Prompt:“A poster with AR, VFX, and Generative AI demo stations with students interacting.”	
+
+SIGGRAPH Topic:Integrated
+
+### Q10	Summarize your biggest takeaway. Visualize your dream AI application.	
+Sample Answer:“Creativity and AI can work together!” → I imagine an AI travel guide that speaks any language and shows 3D previews.	
+
+AI Image Prompt:“A futuristic travel app using AR, showing locations and translating signs in real time.”	
+
+SIGGRAPH Topic:Creative Summary
