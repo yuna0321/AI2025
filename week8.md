@@ -26,7 +26,7 @@
 6. You (sg) can see them.
 → Ungababona.
 
-Q3.1 Pattern Recognition (Prompt Engineering for AI Use)
+### Q3.1 Pattern Recognition (Prompt Engineering for AI Use)
 🔤 Xhosa Subject Prefixes from Examples
 Subject	Xhosa Prefix	Example Sentence	English Translation
 I	ndi-	Ndisafunda.	I still learn.
@@ -57,7 +57,7 @@ You (pl)	ni-
 They	ba-
 These prefixes are essential in Xhosa and appear in nearly every verb phrase, acting like tiny pronouns built into the verb.
 
-Q3.2 Morphological Parsing (Using GAI as a tutor)
+### Q3.2 Morphological Parsing (Using GAI as a tutor)
 ✅ Model's Expected Answer:
 Let's break down "Ndingasifundisa":
 
@@ -76,7 +76,7 @@ In this case, “it” could refer to a subject like isiNgesi (English), isiFren
 
 Recognizing how morphology carries subject, object, and modality all in one verb word.
 
-Q3.3 AI Translation Challenge (Prompt → Translate → Compare)
+### Q3.3 AI Translation Challenge (Prompt → Translate → Compare)
 ✅ Expected Xhosa Translation:
 “Basasithanda.”
 
