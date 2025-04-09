@@ -103,11 +103,13 @@ Sample Answer	AI Image Prompt	SIGGRAPH Topic
 Sample Answer:Computer Graphics helps visualize ideas in 2D/3D, used in architecture, product design, healthcare, and marketing.	
 
 AI Image Prompt:“A collage with 3D medical imaging, a digital building model, and a product ad mockup.”
+![image](https://github.com/user-attachments/assets/074836e3-e376-405d-af1c-72d4f7200fe6)
 
 SIGGRAPH Topic:Computer Graphics
 
 ### Q2	How can VR/AR transform customer experience in a specific industry?	
 Sample Answer:In restaurants, AR menus let customers see 3D dishes before ordering, creating an immersive dining experience.	
+![image](https://github.com/user-attachments/assets/9b441f15-4e04-467f-9c6f-f9e05cd63a9b)
 
 AI Image Prompt:“AR restaurant menu showing 3D dishes, customers interacting via smartphones.”	
 
@@ -124,6 +126,7 @@ SIGGRAPH Topic:AI & Generative Media
 Sample Answer:A talking AI mascot helps users choose skincare products on a beauty brand’s website.	
 
 AI Image Prompt:“An animated AI character talking to a user while product info floats around.”	
+![image](https://github.com/user-attachments/assets/331fa2d4-18fe-4433-a171-1e6b0ff6db57)
 
 SIGGRAPH Topic:AI & Generative Media
 
@@ -131,6 +134,7 @@ SIGGRAPH Topic:AI & Generative Media
 Sample Answer:In training videos, magical visual effects (like glowing diagrams or particle transitions) boost engagement.	
 
 AI Image Prompt:“A training scene with floating diagrams and particle animation transitions.”
+![image](https://github.com/user-attachments/assets/34735005-8546-4cfb-a332-7885f80e6723)
 
 SIGGRAPH Topic:Visual Effects
 
@@ -138,6 +142,7 @@ SIGGRAPH Topic:Visual Effects
 Sample Answer:Real-time rendering allows instant product customization in livestream shopping.	
 
 AI Image Prompt:“A 3D shopping stream where the host changes product colors live with viewer votes.”	
+![Uploading image.png…]()
 
 SIGGRAPH Topic:Real-Time Rendering
 
@@ -145,6 +150,7 @@ SIGGRAPH Topic:Real-Time Rendering
 Sample Answer:Immersive tech offers deeper engagement but is costlier. Posters are cheaper but less interactive.	
 
 AI Image Prompt:“A VR booth with headset users next to a traditional paper ad wall.”	
+![image](https://github.com/user-attachments/assets/1cf019b3-5e79-4479-aa02-5057d3efc45a)
 
 SIGGRAPH Topic:HCI & Immersive Experience
 
@@ -152,6 +158,7 @@ SIGGRAPH Topic:HCI & Immersive Experience
 Sample Answer:Touchless gestures and voice control make shopping faster and more fun, encouraging purchases.	
 
 AI Image Prompt:“A shopper using hand gestures to swipe through holographic products.”	
+![image](https://github.com/user-attachments/assets/3bac9652-8cdc-4a3f-afae-1bb0b0627285)
 
 SIGGRAPH Topic:HCI & Immersive Experience
 
@@ -159,6 +166,7 @@ SIGGRAPH Topic:HCI & Immersive Experience
 Sample Answer:“TechXperience Week” includes AR games, a VFX photo booth, and an AI art gallery.	
 
 AI Image Prompt:“A poster with AR, VFX, and Generative AI demo stations with students interacting.”	
+![image](https://github.com/user-attachments/assets/c9a5aff0-e392-43a0-9b3e-e207c153474b)
 
 SIGGRAPH Topic:Integrated
 
@@ -166,5 +174,6 @@ SIGGRAPH Topic:Integrated
 Sample Answer:“Creativity and AI can work together!” → I imagine an AI travel guide that speaks any language and shows 3D previews.	
 
 AI Image Prompt:“A futuristic travel app using AR, showing locations and translating signs in real time.”	
+![image](https://github.com/user-attachments/assets/5812e0e3-35f4-4e8b-bafe-ca8e31d01e3a)
 
 SIGGRAPH Topic:Creative Summary
