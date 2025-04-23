@@ -128,3 +128,7 @@ Confirmation Gestures: Require a follow-up gesture to confirm major actions (lik
 Context Awareness: Use time of day, user proximity, or crowd behavior to reduce false positives.
 
 Fallback Control: Allow emergency override via mobile app or voice command.
+
+**Mission C**
+
+"C:\Users\C8\Desktop\Connection – Emotional Aura Drone.pptx"
