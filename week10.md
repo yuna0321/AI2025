@@ -131,4 +131,11 @@ Fallback Control: Allow emergency override via mobile app or voice command.
 
 **Mission C**
 
-"C:\Users\C8\Desktop\Connection – Emotional Aura Drone.pptx"
+![image](https://github.com/user-attachments/assets/3b07810d-3e24-468a-80bc-683ee5ca11d2)
+
+![image](https://github.com/user-attachments/assets/3ba3e3d2-d55e-4a9c-b6e7-c06496392f96)
+
+![image](https://github.com/user-attachments/assets/7b48fc5d-da1d-45be-899c-7e8c35c22f8c)
+
+
+
